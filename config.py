@@ -4,7 +4,7 @@ import os
 
 
 ts_len = 22
-root = "../../../ForFun/LipDS/best-lip-reading-dataset/outputs"
+root = "path/to/dataset"
 dirs_ = list(os.listdir(root))
 words_ = [x.split('_')[0] for x in dirs_]
 vocab = ''.join(np.unique(list(''.join(words_))))

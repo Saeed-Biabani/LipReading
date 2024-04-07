@@ -66,4 +66,4 @@ where $\ y_{{\pi}_t}^t$ is the probability of generating character $\ \pi_t$ at 
 - [LIPNET: End-to-End Sentence-Level Lipreading](https://arxiv.org/pdf/1611.01599.pdf)
 
 ## 🛡️ License <a name="license"></a>
-Project is distributed under [MIT License](https://github.com/Saeed-Biabani/Scene-Text-Recognition/blob/main/LICENSE)
+Project is distributed under [MIT License](https://github.com/Saeed-Biabani/LipReading/blob/main/LICENSE)
